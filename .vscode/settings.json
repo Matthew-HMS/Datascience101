@@ -1,4 +1,4 @@
 {
     "python.analysis.typeCheckingMode": "off",
-    "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font"
+    //"terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font"
 }
